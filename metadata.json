@@ -1,0 +1,6 @@
+{
+  "name": "ShareSpace — Smart Resource Sharing Platform",
+  "description": "Unlock underused campus equipment, labs, and spaces with role-based booking workflows, safety condition tracking, and fair allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
